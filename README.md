@@ -2,7 +2,7 @@
 
 This article is accepted in STVR'24. This journal is an extension to our PRDC'22 conference paper titled "Characterizing Deep Learning Neural Network Failures Between Algorithmic Inaccuracy and Transient Hardware Faults".
 
-DOI of this article is [here](https://doi.ori/10.1002/stvr.1873).
+DOI of this article is [here](https://doi.org/10.1002/stvr.1873).
 
 Please cite our article from [here](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fstvr.1873&mobileUi=0).
 
