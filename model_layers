@@ -1,0 +1,62 @@
+ImageNet
+
+Model name : ResNet50
+Total layers 177
+Model name : ResNet101
+Total layers 347
+Model name : ResNet152
+Total layers 517
+Model name : VGG16
+Total layers 23
+Model name : VGG19
+Total layers 26
+Model name : Xception
+Total layers 134
+Model name : NASNetMobile
+Total layers 771
+Model name : NASNetLarge
+Total layers 1041
+Model name : MobileNet
+Total layers 93
+Model name : MobileNetV2
+Total layers 157
+Model name : InceptionResNetV2
+Total layers 782
+Model name : InceptionV3
+Total layers 313
+Model name : DenseNet121
+Total layers 429
+Model name : DenseNet169
+Total layers 597
+Model name : DenseNet201
+Total layers 709
+
+
+Cifar100
+
+Model name : googlenet
+Total layers 193
+Model name : inceptionv3
+Total layers 293
+Model name : inceptionv4
+Total layers 461
+Model name : resnet18
+Total layers 69
+Model name : resnet34
+Total layers 125
+Model name : resnet50
+Total layers 142
+Model name : resnet101
+Total layers 278
+Model name : resnet152
+Total layers 414
+Model name : vgg11
+Total layers 37
+Model name : vgg13
+Total layers 43
+Model name : vgg16
+Total layers 52
+Model name : vgg19
+Total layers 61
+Model name : xception
+Total layers 171
