@@ -1,16 +1,15 @@
 # Investigating The Impact of Transient Hardware Faults on Deep Learning Neural Network Inference
 
-This article submitted to STVR'23 is an extension to our PRDC'22 paper titled "Characterizing Deep Learning Neural Network Failures Between Algorithmic Inaccuracy and Transient Hardware Faults".
+This article is accepted in STVR'24. This journal is an extension to our PRDC'22 conference paper titled "Characterizing Deep Learning Neural Network Failures Between Algorithmic Inaccuracy and Transient Hardware Faults".
+
+Please cite the paper from [here](https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fstvr.1873&mobileUi=0).
+
 ## Installation
 
 Prerequisites for installing the project,
 1. Ubuntu OS (Tested with Ubuntu 18.04)
 2. Python 3.6
 3. Resolve all the dependency from requirements.txt file
-
-
-
-
 
 
 ## Run the following python scripts to reproduce the results:
